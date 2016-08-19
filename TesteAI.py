@@ -23,5 +23,5 @@ while robot.updateSimulation():
     if ball:
     	print(ball.position.r)
     else:
-    	print ("NADA")
+    	print ("Nothing")
     time.sleep(0.1)
